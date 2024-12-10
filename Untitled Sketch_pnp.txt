@@ -1,0 +1,21 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Untitled Sketch
+*Date=11:37:44
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;220;THT;46.0022;-40.0755;90;Bottom;R3
+2;;;36.0652;-28.6455;0;Bottom;Part1
+3;220;THT;46.0022;-27.3755;90;Bottom;R4
+4;;THT;33.3022;-38.8055;90;Bottom;R2
+5;;;18.0622;-27.3755;0;Bottom;J1
+6;;THT;33.3022;-28.6455;90;Bottom;R1
